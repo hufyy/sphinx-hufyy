@@ -10,7 +10,7 @@ Welcome to linux相关's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+    test.md
 
 Indices and tables
 ==================
